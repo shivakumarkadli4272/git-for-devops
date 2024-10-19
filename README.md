@@ -6,3 +6,4 @@ Include:
 -commands
 -texts
 -tutorials
+-projects
